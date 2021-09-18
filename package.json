@@ -1,0 +1,23 @@
+{
+  "name": "wistaria-ui",
+  "version": "1.0.0",
+  "description": "a web ui framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwlv/wistaria-ui.git"
+  },
+  "keywords": [
+    "ui",
+    "react"
+  ],
+  "author": "hwlv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hwlv/wistaria-ui/issues"
+  },
+  "homepage": "https://github.com/hwlv/wistaria-ui#readme"
+}
